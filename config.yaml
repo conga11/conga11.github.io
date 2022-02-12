@@ -23,7 +23,7 @@ enableEmoji: true
 
 params:
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
-  background: "assets/images/background1.jpeg"
+  background: "assets/images/background.jpeg"
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
