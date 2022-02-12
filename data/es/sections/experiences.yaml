@@ -1,0 +1,29 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: TDR Soluciones Logísticas
+    url: "http://tdrsolucioneslogisticas.com"
+    location: Av. Mexico 10, Col. Palo Alto, 76240 Querétaro (México)
+    # company overview
+    overview: Transporte y Logística
+  positions:
+  - designation: Becaria en Sistema de Gestión
+    start: Oct 2019 - Feb 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Documentar procesos."
+    - "Optimizar procesos."
+    - "Apoyo en auditorias internas de ISO 9001 e ISO 39001"
+    - "Actualización de manuales de ISO 9001 e ISO 3001"
+    - "Responsable del sistema de Acción de Mejora."

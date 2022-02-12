@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skill/python1.png"
+  summary: "Intermediate Programming. Experience with Numpy, Pandas, Matplotlib and familiar with time series. Basic Machine Learning deployment."
+
+- name: R
+  logo: "/images/sections/skill/r1.jpg"
+  summary: "Intermediate data analysis using ggplot."
+
+- name: Matlab
+  logo: "/images/sections/skill/matlab1.png"
+  summary: "Advanced use of Matlab to graph 2D and 3D data. Advanced use of Matlab to create animations. Advanced use of App designer to create simple apps which include complex calculations and animations"
+
+- name: Mathematica
+  logo: "/images/sections/skill/mathematica1.png"
+  summary: "Experience with complex calculations to solve differential equations. Experience creating graphs to visualize data in 2D, 3D and 4D."
+
+- name: C++
+  logo: "/images/sections/skill/c-logo.png"
+  summary: "Intermediate Object Oriented Programming. Development of a basic programme using the four principles encapsulation, abstraction, inheritance, and polymorphism."

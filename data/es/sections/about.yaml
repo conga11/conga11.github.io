@@ -1,0 +1,69 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 4to semestre en Ingeniería de Ciencia de Datos y Matemáticas
+# your company information
+company:
+  name: Tec de Monterrey.
+  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CVMichele.pdf"
+
+# a summary about you
+summary: 'Soy una persona de rápido aprendizaje que siempre busca retos'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/conga11"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ana-michele-hay/"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "anamichelehay@gmail.com"
+
+# your soft skills
+softSkills:
+- name: Resolver Problemas
+  percentage: 100
+  color: sky
+- name: Autodidacta
+  percentage: 100
+  color: sky
+- name: Comunicación asertiva
+  percentage: 100
+  color: sky
+- name: Adaptabilidad
+  percentage: 90
+  color: sky
+- name: Trabajo equipo
+  percentage: 95
+  color: sky
+- name: Apasionada
+  percentage: 100
+  color: sky
+- name: Español
+  percentage: 100
+  color: yellow
+- name: Inglés
+  percentage: 100
+  color: yellow
+- name: Alemán
+  percentage: 65
+  color: yellow
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange

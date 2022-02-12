@@ -1,0 +1,69 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Fourth semester in Engineering in Data Science and Mathematics
+# your company information
+company:
+  name: Tec de Monterrey.
+  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CVMichele.pdf"
+
+# a summary about you
+summary: 'I am a fast learner and I am always looking for challenges.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/conga11"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ana-michele-hay/"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "anamichelehay@gmail.com"
+
+# your soft skills
+softSkills:
+- name: Problem-solving
+  percentage: 100
+  color: sky
+- name: Autodidact
+  percentage: 100
+  color: sky
+- name: Communication
+  percentage: 100
+  color: sky
+- name: Adaptative
+  percentage: 90
+  color: sky
+- name: Team Work
+  percentage: 95
+  color: sky
+- name: Passionated
+  percentage: 100
+  color: sky
+- name: Spanish
+  percentage: 100
+  color: yellow
+- name: English
+  percentage: 100
+  color: yellow
+- name: German
+  percentage: 65
+  color: yellow
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange

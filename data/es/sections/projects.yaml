@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Python
+  filter: "Python"
+- name: R
+  filter: "R"
+- name: Machine Learning
+  filter: "Machine Learning"
+- name: Academic
+  filter: "Academic"
+- name: Professional
+  filter: "Professional"
+- name: Personal
+  filter: "Personal"
+
+# your projects
+projects:
+- name: Process Optimization for FEMSA-Coca Cola
+  #logo: /images/sections/projects/kubernetes.png
+  role: Academic
+  timeline: "2021"
+  #repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
+  #url: ""  
+  summary: "Data obtained from the Altamira plant of the compression and refrigeration machines
+Exploratory data analysis of every variable in time and divided by type of beverage
+Usage of t-test to compare beverage production.
+Implementation of Random Forest algorithm to predict the electric power of machines based on the production
+Implementation of Random Forest to predict energy per day in the whole plant in the dataset after PCA"
+  tags: ["Academic","Python","Machine Learning"]
+
+- name: Analysis of genes that cause colon cancer
+  #logo: /images/sections/projects/tensorflow.png
+  role: Academic
+  timeline: "2021"
+  #repo: https://github.com/AdrianLandaverde/Genes_Cancer_de_Colon
+  #url: ""
+  summary: "Data obtained from a Microarray gene expression from Geo Datasets.
+Analysis of gene expression in young and adult people with colon cancer in stage II and III.
+Selection of genes based on a t-test.
+Volcano Graph and R-I graph to find differential genes between the four groups.
+Investigation of the main genes using genomic databases such as STRING, KEGG, Panther, and NCBI."
+  tags: ["R","Academic"]

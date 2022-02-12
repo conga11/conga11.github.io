@@ -1,0 +1,43 @@
+baseURL: http://hugo-toha.github.io
+languageCode: en-us
+title: "Michele Hay"
+theme: "toha"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 3
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable global emoji support
+enableEmoji: true
+
+params:
+  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  background: "images/background.jpeg"
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: false
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: false
+    
+  flagOverwrites:
+  - languageCode: en
+    countryCode: us
+  - languageCode: es
+    countryCode: mx

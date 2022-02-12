@@ -1,0 +1,30 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: TDR Soluciones Logísticas
+    url: "http://tdrsolucioneslogisticas.com"
+    location: Av. Mexico 10, Col. Palo Alto, 76240 Querétaro (México)
+    # company overview
+    overview: Transportation and Logistics Company
+  positions:
+  - designation: Internship in Management System
+    start: Oct 2019 - Feb 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Document procedures and processes."
+    - "Optimizing procedures and processes."
+    - "Support in internal audits of ISO 9001 and ISO 39001" 
+    - "Updating manuals of ISO 9001 and ISO 39001" 
+    - "Responsible for the Improvement Action Request System" 
+    - "Supporter of the Corrective Action Request"

@@ -1,0 +1,54 @@
+
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Engineering in Data Science and Maths
+  icon: fa-graduation-cap
+  timeframe: 2020-2024
+  institution:
+    name: Tec de Monterrey Campus Estado de México
+    url: "#"
+  grade: #(optional)
+    scale: Actual Grade
+    achieved: 92
+    outOf: 100
+  extracurricularActivities: #(optional)
+  - "Arts: Film Apprecciation Course"
+- name: International Multicultural Programme 2017
+  icon: fa-graduation-cap
+  timeframe: 2017
+  institution:
+    name: John Abbott College
+    url: "http://www.johnabbott.qc.ca/international/"
+- name: Multicultural Baccalaureate
+  icon: fa-university
+  timeframe: 2016-2019
+  institution:
+    name: Prepa Tec Campus Estado de México
+    url: "#"
+  grade: #(optional)
+    scale: Grade
+    achieved: 94
+    outOf: 100
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Mathematics High Level
+    - name: Computer Science Standard Level
+    - name: English Language and Litearure High Level
+    - name: Biology Standar Level
+    - name: History Standard Level
+    - name: Spanish Literature High Level
+  extracurricularActivities: #(optional)
+  - "Literature Club"
