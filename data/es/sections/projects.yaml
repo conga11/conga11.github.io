@@ -27,14 +27,15 @@ buttons:
 
 # your projects
 projects:
-- name: Process Optimization for FEMSA-Coca Cola
+- name: Optimización de Procesos de FEMSA-Coca Cola
   #logo: /images/sections/projects/kubernetes.png
   role: Academic
   timeline: "2021"
   #repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
   #url: ""  
-  summary: "Data obtained from the Altamira plant of the compression and refrigeration machines
-Exploratory data analysis of every variable in time and divided by type of beverage
+  summary: "Datos obtenidos de la planta de máquinas de compresión y Refrigeración en Altamirano.
+Análisis de datos exploratorio de todas las variables en el timepo divido entre cada tipo de bebida.
+Uso de t-test para comparar la producción de bebidas.
 Usage of t-test to compare beverage production.
 Implementation of Random Forest algorithm to predict the electric power of machines based on the production
 Implementation of Random Forest to predict energy per day in the whole plant in the dataset after PCA"
