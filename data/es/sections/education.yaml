@@ -11,7 +11,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Engineering in Data Science and Maths
+- name: Ingeniería en Ciencia de Datos y Matemáticas
   icon: fa-graduation-cap
   timeframe: 2020-2024
   institution:
@@ -29,7 +29,7 @@ degrees:
   institution:
     name: John Abbott College
     url: "http://www.johnabbott.qc.ca/international/"
-- name: Multicultural Baccalaureate
+- name: Bachiler Multicultural
   icon: fa-university
   timeframe: 2016-2019
   institution:
@@ -44,11 +44,11 @@ degrees:
     showGrades: false
     collapseAfter: 4
     courses:
-    - name: Mathematics High Level
-    - name: Computer Science Standard Level
-    - name: English Language and Litearure High Level
-    - name: Biology Standar Level
-    - name: History Standard Level
-    - name: Spanish Literature High Level
+    - name: Mathemáticas Alto Nivel
+    - name: Ciencias Computacionales Nivel Medio
+    - name: Literatura y lengua inglesa Alto Nivel
+    - name: Biología Nivel Medio
+    - name: Historia Nivel Medio
+    - name: Literatura Española Alto Nivel
   extracurricularActivities: #(optional)
-  - "Literature Club"
+  - "Círculo de Lectura"
