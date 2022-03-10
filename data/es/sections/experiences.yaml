@@ -17,9 +17,9 @@ experiences:
     overview: Transporte y Logística
   positions:
   - designation: Becaria en Sistema de Gestión
-    start: Oct 2019 - Feb 2020
+    start: Oct 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Feb 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - "Documentar procesos."
