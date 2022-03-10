@@ -16,7 +16,7 @@ degrees:
   timeframe: 2020-Present
   institution:
     name: Tec de Monterrey Campus Estado de México
-    url: "#"
+    url: "https://tec.mx/en"
   grade: #(optional)
     scale: Actual Grade
     achieved: 92
@@ -34,7 +34,7 @@ degrees:
   timeframe: 2016-2019
   institution:
     name: Prepa Tec Campus Estado de México
-    url: "#"
+    url: "https://tec.mx/en"
   grade: #(optional)
     scale: Grade
     achieved: 94
