@@ -13,10 +13,10 @@ section:
 degrees:
 - name: Ingeniería en Ciencia de Datos y Matemáticas
   icon: fa-graduation-cap
-  timeframe: 2020-2024
+  timeframe: 2020-Actual
   institution:
     name: Tec de Monterrey Campus Estado de México
-    url: "#"
+    url: "https://tec.mx/es"
   grade: #(optional)
     scale: Actual Grade
     achieved: 92
@@ -27,14 +27,14 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2017
   institution:
-    name: John Abbott College
+    name: John Abbott College, Montréal, Canadá
     url: "http://www.johnabbott.qc.ca/international/"
 - name: Bachiller Multicultural
   icon: fa-university
   timeframe: 2016-2019
   institution:
     name: Prepa Tec Campus Estado de México
-    url: "#"
+    url: "https://tec.mx/es"
   grade: #(optional)
     scale: Grade
     achieved: 94
