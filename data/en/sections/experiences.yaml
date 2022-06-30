@@ -12,7 +12,8 @@ experiences:
 - company:
     name: TDR Soluciones Logísticas
     url: "http://tdrsolucioneslogisticas.com"
-    location: Av. Mexico 10, Col. Palo Alto, 76240 Querétaro (México)
+    location: Querétaro (México)
+    # Av. Mexico 10, Col. Palo Alto, 76240 Querétaro (México)
     # company overview
     overview: Transportation and Logistics Company
   positions:
@@ -32,7 +33,8 @@ experiences:
 - company:
     name: Scotiabank
     url: "https://www.scotiabank.com.mx/"
-    location: Boulevard Manuel Ávila Camacho 1, Col. Lomas de Chapultepec, Alcaldía Miguel Hidalgo, Ciudad de México. (México)
+    location: Ciudad de México (México)
+    # Boulevard Manuel Ávila Camacho 1, Col. Lomas de Chapultepec, Alcaldía Miguel Hidalgo, Ciudad de México (México)
     # company overview
     overview: Bank
   positions:
