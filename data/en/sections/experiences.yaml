@@ -28,3 +28,19 @@ experiences:
     - "Updating manuals of ISO 9001 and ISO 39001" 
     - "Responsible for the Improvement Action Request System" 
     - "Supporter of the Corrective Action Request"
+
+- company:
+    name: Scotiabank
+    url: "https://www.scotiabank.com.mx/"
+    location: Boulevard Manuel Ávila Camacho 1, Col. Lomas de Chapultepec, Alcaldía Miguel Hidalgo, Ciudad de México. (México)
+    # company overview
+    overview: Bank
+  positions:
+  - designation: Project Analyst
+    start: Jun 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: 
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Document procedures and processes."
+
