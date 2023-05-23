@@ -12,7 +12,7 @@ experiences:
 - company:
     name: TDR Soluciones Logísticas
     url: "http://tdrsolucioneslogisticas.com"
-    location: Querétaro (México)
+    location: Querétaro (Mexico)
     # Av. Mexico 10, Col. Palo Alto, 76240 Querétaro (México)
     # company overview
     overview: Transportation and Logistics Company
@@ -33,7 +33,7 @@ experiences:
 - company:
     name: Scotiabank
     url: "https://www.scotiabank.com.mx/"
-    location: Ciudad de México (México)
+    location: Mexico City (Mexico)
     # Boulevard Manuel Ávila Camacho 1, Col. Lomas de Chapultepec, Alcaldía Miguel Hidalgo, Ciudad de México (México)
     # company overview
     overview: Bank
@@ -41,9 +41,28 @@ experiences:
   - designation: Project Analyst
     start: Jun 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: 
+    end: Jan 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - "Automate procecess." 
     - "Manipulation of databases in portfolio."
     - "Data visualization of projects in portfolio"
+
+- company:
+    name: deep_dive
+    url: "https://dive.ai/"
+    location: Mexico City (Mexico)
+    # Av. Mexico 10, Col. Palo Alto, 76240 Querétaro (México)
+    # company overview
+    overview: Technological Soluctions Company
+  positions:
+  - designation: Jr. Data Scientist
+    start: Jan 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end:
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Invoicing Web App full development."
+    - "Integration and development of APIs."
+    - "Client Relationship 	Management." 
+    - "LLM´s integration" 
